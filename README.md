@@ -63,5 +63,5 @@ Try to solve These Problems On leet code :
 ✅[50 SQL Problems](https://leetcode.com/studyplan/top-sql-50/)
 
 ---
-Eng /Manar Elhabbal
+Eng / Manar Elhabbal
 ---
